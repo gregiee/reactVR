@@ -1,2 +1,2 @@
 # reactVR
-test with react and three
+test with reactJS and threeJS
